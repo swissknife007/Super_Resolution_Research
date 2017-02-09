@@ -1,0 +1,15 @@
+Abhishek's Note to TAs
+I have put a copy of my notebooks outside FSRCNN_Experiments_Newer_Version for visibility but I always executed them from within this directory.
+We realized just 3 hours before submission a major issue with our sampling which we fixed. however , we didn't have enough time to run all the experiments all over again.
+A lot of my outputs can be see in the FSRCNN_Experiments_Newer_Version .However some of the experiments were run with old code and may not run again because the underlying code evolved time.
+Some of the outputs got overriden with 1 epoch outputs duing a dummy run.
+FSRCNN Notebook.ipynb notebook contains experiments with various hyperparamets like learning rate and batch size. It also contains some experiments with the layout of the network itself.It mostly contains
+experiments with the transaition state 1 of FSRCNN. Also contains experiment with last layer and the activation function.
+FSRCNN_DataAugmented Notebook.ipynb notebook contains experiments with data augmention and FSRCNN. 
+FSRCNN_VGG Notebook.ipynb contains experiments involving VGG cost as the cost function of the network
+All the files having conv in their file name are my attempts at implementing a deconvolution layer in different ways.
+FSRCNN Notebook-Copy1.ipynb contains some experiments with skip connections for FSRCNN.
+FSRCNN_Theano2.py contains the complete implementation for the FSRCNN full version inclduing skip connections
+FSRCNN_Theano.py contains the complete implementation for the FSRCNN transition state 1 version.
+FSRCNN_Theano3.py contains the complete implementation for the FSRCNN using a different kind of deconvolution layer
+

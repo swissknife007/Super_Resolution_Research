@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cost",
+				"cost_ij"
+			],
+			[
+				"n_",
+				"n_epochs"
+			],
+			[
+				"learn",
+				"learning_rate"
+			],
+			[
+				"nhidd",
+				"nhidden2"
+			],
+			[
+				"drop",
+				"Dropout_Layer"
+			],
+			[
+				"learning",
+				"learning_rate_track"
+			],
+			[
+				"learin",
+				"learning_rate"
+			],
+			[
+				"new_",
+				"new_learning_rate"
+			],
+			[
+				"train_set",
+				"train_set_y"
+			],
+			[
+				"sub",
+				"subimage"
+			],
+			[
+				"output",
+				"output_type"
+			],
+			[
+				"up",
+				"upsampling_factor"
+			],
+			[
+				"image",
+				"image_filename"
+			],
+			[
+				"file",
+				"filenames"
+			],
+			[
+				"best",
+				"best_cost"
+			],
+			[
+				"train_",
+				"train_set_y"
+			],
+			[
+				"train",
+				"train_set_x"
+			],
+			[
+				"get",
+				"get_value"
+			],
+			[
+				"vali",
+				"valid_set_x"
+			],
+			[
+				"model",
+				"model_output"
+			],
+			[
+				"layer",
+				"layer0_input"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"nos",
+				"noise_type"
+			],
+			[
+				"batch",
+				"batch_size"
+			],
+			[
+				"adj",
+				"adj_amt"
+			],
+			[
+				"ad",
+				"adj_amt"
+			],
+			[
+				"a",
+				"activity_idx"
+			],
+			[
+				"activ",
+				"activities"
+			],
+			[
+				"activit",
+				"activity_idx"
+			],
+			[
+				"cate",
+				"categories_file"
+			],
+			[
+				"test",
+				"test_file"
+			],
+			[
+				"ac",
+				"activities_index"
+			],
+			[
+				"write",
+				"write_file"
+			],
+			[
+				"convert",
+				"convertAN_to_thumos_gt"
+			],
+			[
+				"vide",
+				"video-id"
+			],
+			[
+				"act",
+				"act_file"
+			],
+			[
+				"ground",
+				"ground_frame"
+			],
+			[
+				"modified",
+				"modified_df"
+			],
+			[
+				"modifie",
+				"modified_df"
+			],
+			[
+				"pro",
+				"proposals_df"
+			],
+			[
+				"modifi",
+				"modified_df"
+			],
+			[
+				"propo",
+				"proposals_df_2"
+			],
+			[
+				"new_e",
+				"new_eVal"
+			],
+			[
+				"ev",
+				"eVals"
+			],
+			[
+				"eV",
+				"eVals"
+			],
+			[
+				"eig",
+				"eigenVec"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SRCNN_Layers.py",
+			"settings":
+			{
+				"buffer_size": 6078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "preprocessing.py",
+			"settings":
+			{
+				"buffer_size": 1770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SRCNN_Theano.py",
+			"settings":
+			{
+				"buffer_size": 2931,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jon/mnt/home/jon/kaldi/egs/IEMOCAP_ex/emo_audio/cmd.sh",
+		"/Users/jon/Documents/Grad_Classes/Speech_recognition/utt2spk",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/src/hw3.py",
+		"/Users/jon/mnt/Documents/Neural_Networks/e4040_hw4_jc4659/src/hw4b.py",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/e_4040_ta-e4040_hw3_jc4659-fa7668fdd645/src/annealedresults",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/e_4040_ta-e4040_hw3_jc4659-fa7668fdd645/src/hw3_utils.py",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/e_4040_ta-e4040_hw3_jc4659-fa7668fdd645/src/hw3_nn.py",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/e_4040_ta-e4040_hw3_jc4659-fa7668fdd645/src/hw3.py",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/src/hw3_nn.py",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/hw3/src/hw3_utils.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/ground_truth_to_flat.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/ConvertThumosToActivityNet.py",
+		"/Users/jon/mnt/home/jon/Documents/Neural_Networks/e4040_hw3_jc4659/src/hw3_nn.py",
+		"/Users/jon/mnt/home/jon/Documents/Neural_Networks/e4040_hw3_jc4659/src/hw3.py",
+		"/Users/jon/mnt/home/jon/Documents/Speech/LDC Pt 1/EMOTIONL.TXT",
+		"/Users/jon/mnt/home/jon/Documents/Speech/LDC Pt 1/SPH2PIPE.REA",
+		"/Users/jon/mnt/home/jon/Documents/Speech/LDC Pt 1/EMOTION_.PDF",
+		"/Users/jon/mnt/home/jon/Documents/Speech/LDC Pt 1/CHOP_FIL.PER",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/e4040_hw2_jc4659/src/hw2c.py",
+		"/Users/jon/Documents/Online Classes/CS231 Conv NN in Computer Vision/assignment2/ConvolutionalNetworks.ipynb",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/Server_Code/good_refinements80.csv",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/gurkirt-val-formatted.json",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/gurkirt-val.json",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/CDC_Paper/egpaper_for_review_comments.fdf",
+		"/Users/jon/Documents/Grad_Classes/Research/Tensorflow installation",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/CDC_Paper/egpaper_for_review_backup_dup.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/CDC_Paper/egpaper_for_review (1) (1)_backup2.fdf",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Thumos_Visualization/annotation_test/CliffDiving_test.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Thumos_Visualization/annotation_test/Diving_test.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/VGG/tensorflow-vgg-master/vgg16.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/VGG/tensorflow-vgg-master/vgg19_trainable.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/VGG/tensorflow-vgg-master/vgg16_trainable.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/VGG/tensorflow-vgg-master/test_vgg16.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/VGG/tensorflow-vgg-master/test_vgg16_trainable.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Thumos_Visualization/Gen_Viz_v3.m",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/Server_Code/good_refinements_90thres.csv",
+		"/Users/jon/Kaldi/kaldi-master/egs/wsj/s5/run.sh",
+		"/Users/jon/Kaldi/kaldi-master/egs/wsj/s5/steps/make_mfcc.sh",
+		"/Users/jon/Kaldi/kaldi-master/egs/wsj/s5/steps/nnet3/lstm/train.sh",
+		"/Users/jon/Kaldi/kaldi-master/egs/wsj/s5/local/nnet3/run_lstm.sh",
+		"/Users/jon/Documents/Grad_Classes/Neural_Network_Class/e4040_hw2_jc4659/src/hw2b.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet_Code/Convert_To_THUMOS/thumos_eval_for_AN/TH14evalDet_Updated.m",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/categories.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/testing_segments_formatted.csv",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/training_segments_formatted.csv",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/original_charades/Charades_v1_classes.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/Charades_v1_train.csv",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/README.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/eval/TH14evalDet_Updated.m",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/eval/eval_scnn_thumos14.m",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/testing_segments.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/Cooking_Dataset/Test_Segments_Mapping.csv",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/training_segments.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet-master/Evaluation/eval_detection.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet_Code/Convert_To_THUMOS/convertAN_to_thumos_gt.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet_Code/Convert_To_THUMOS/ground_truth_to_flat.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet_Code/Convert_To_THUMOS/ConvertAN_Pred_THUMOS.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet_Code/ConvertThumosToActivityNet.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/Cooking_Dataset/convert_to_thumos_gt.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/README.TXT",
+		"/Users/jon/mnt/home/jon/Documents/Research/ActivityNet_Code/ground_truth_to_flat.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/gen_flat_files.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/original_charades/Charades_v1_test.csv",
+		"/Users/jon/mnt/home/jon/Documents/Research/Cooking_Dataset/Generate_FlatFiles.m",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/convert_to_thumos_gt.py",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/Charades_v1_classify.m",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/test_submission_classify.txt",
+		"/Users/jon/mnt/home/jon/Documents/Research/charades/Charades/Charades_v1_test.csv",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/TH14 eval output.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/Evaluation/data/sample_detection_prediction.json",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/Evaluation/eval_detection.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/Evaluation/get_detection_performance.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/convertAN_to_thumos_gt.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/ConvertAN_Pred_THUMOS.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/Evaluation/utils.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/Evaluation/AN_sample_prediction_formated_v2.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/Evaluation/AN_sample_prediction_formated_v1.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/activitynet_formatted.json",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/detclasslist.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/AN_sample_prediction.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/AN_sample_prediction_formated.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/Cooking_Dataset/convert_to_thumos_gt.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/Convert_To_THUMOS/annotation_training/Washing hands_training.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/convertAN_to_thumos_gt.py",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/temp.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet_Code/durations/all_segments_mapping.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/activitynet_v1-3_validation_proposals.csv",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet-master/activity_net.v1-3.min.json",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet Code/Visualization/sample_prediction.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/ActivityNet Code/Visualization/annotation_test/ThrowDiscus_test.txt",
+		"/Users/jon/Documents/Grad_Classes/Research/Projects/Cooking_Dataset/Eval-master/activityRecognitionEvaluation.m"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shared_phones_opt",
+			"sets.int",
+			"$alidir",
+			"$ali",
+			"lang",
+			"tri4b_ali_si284",
+			"ali",
+			"lang",
+			"RNNLayerNorm",
+			"todo",
+			"hidden",
+			"cost",
+			"0.2",
+			".2",
+			"train_my_lenet",
+			"9",
+			"ndimage",
+			"gaussian",
+			"blur",
+			"wav",
+			"training_enabled",
+			"grads",
+			"grad",
+			"gparams",
+			"n_train_batches",
+			"error",
+			"training_enabled",
+			"DropoutHiddenLayer",
+			"rng",
+			"drop",
+			"transform",
+			"#****",
+			"#",
+			"Annots",
+			"annots",
+			"19",
+			"var_dict",
+			"/",
+			"subset",
+			"compute_average_precision_detection",
+			"wrapper_compute_average_precision",
+			"interpolated_prec_rec",
+			"\\t",
+			"\\",
+			"1DO2V4K74",
+			"HiddenLayer",
+			"load_data",
+			"video_test_0000073",
+			" \n",
+			"video_test_0000073",
+			"video_test_0000007",
+			"float32"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SRCNN_Layers.py",
+					"settings":
+					{
+						"buffer_size": 6078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "preprocessing.py",
+					"settings":
+					{
+						"buffer_size": 1770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SRCNN_Theano.py",
+					"settings":
+					{
+						"buffer_size": 2931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
